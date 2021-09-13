@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndresProgrammer10
 - 👀 I’m interested in frontend developer and python.
-- 🌱 I’m currently learning javascript, css, html, svelte, reactjs, angular, vuejs.
+- 🌱 I’m currently learning Frontend, javascript, css, html, svelte, reactjs, angular, vuejs.
 - 💞️ I’m looking to collaborate on documentation the projects that need it!
 - 📫 How to reach me: andresdevelopercop@gmail.com
 
